@@ -62,6 +62,8 @@ V. VERHANDLUNGSGEGENSTÄNDE DES LANDTAGES UND VERFAHREN
 
 § 25 Vorlagen der Landesregierung
 
+§ 25a Notverordnungen der Landesregierung
+
 § 26 Vereinbarungen des Landes mit dem Bund oder mit anderen Ländern
 
 § 27 Prüfungsaufträge an den Rechnungshof, Berichte des
@@ -72,11 +74,15 @@ Rechnungshofes
 
 Auskunftsrecht und Akteneinsicht
 
+§ 28a Wahrung ds Datenschutzes
+
 § 29 Schriftliche Anfrage
 
 § 30 Dringliche Anfrage
 
 § 31 Kurze mündliche Anfrage
+
+§ 31a Aussprache über Themen von allgemeinem akturellen Interesse
 
 § 32 Anfragen an den Präsidenten des Landtages und die Obmänner der
 
@@ -119,6 +125,12 @@ VI. BILDUNG DER AUSSCHÜSSE UND VERFAHREN
 § 49 Verhandlungsschrift
 
 § 50 Unterausschüsse
+
+§ 50a Hauptausschuß
+
+§ 50b Ausschuß für europäische Integration und grenzüberschreitende
+
+Zusammenarbeit in Europa
 
 § 51 Immunitätsausschuß
 
