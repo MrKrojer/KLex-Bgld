@@ -1,12 +1,12 @@
-### Anhang I
+Anhang I
 
-## (Zu § 3 Z 2)
+(Zu § 3 Z. 2)
 
-Als Voraussetzung zur Anerkennung als Heilquelle muß das Quellwasser im Sinne des § 3 Z 2 folgende spezifische Beschaffenheit bzw. Inhaltsstoffe in folgenden Mindestmengen aufweisen:
+Als Voraussetzung zur Anerkennung als Heilquelle muß das Quellwasser im Sinne des § 3 Z. 2 folgende spezifische Beschaffenheit bzw. Inhaltsstoffe in folgenden Mindestmengen aufweisen:
 
 - a) einen Mindestgehalt von 1 Gramm gelöster Stoffe im Kilogramm des Wassers oder
 
-- b) eine gleichbleibende Temperatur von mindestens 20ºC am Quellenaustritt oder
+- b) eine gleichbleibende Temperatur von mindestens 20 Grad C am Quellenaustritt oder
 
 - c) einen Mindestgehalt an natürlichem, freiem Kohlendioxyd am Quellenaustritt von 250 mg für Trinkkuren bzw. 1000 mg für Badekuren im Kilogramm des Quellwassers oder
 
@@ -17,8 +17,6 @@ Eisenquellen Eisen 10 mg/kg
 Jodquellen Jod 1 mg/kg
 
 Schwefelquellen titrierbaren Schwefel 1 mg/kg
-
-Arsenquellen 0,7 mg/kg
 
 Radonwässer:
 
