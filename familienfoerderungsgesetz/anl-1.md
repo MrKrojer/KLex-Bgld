@@ -1,27 +1,27 @@
 ### Anlage zu § 8
 
-### Familienzuschuß nach gewichtetem Pro-Kopf-Einkommen
+### Familienzuschuss nach gewichtetem Pro-Kopf-Einkommen
 
 | monatlicher Zuschuß | gewichtetes Pro-Kopf-Einkommen |
 
-| S 2.640,-- | S 7.060,-- |
+| 196,60 Euro | 525,40 Euro |
 
-| S 2.455,-- | S 7.210,-- |
+| 182,80 Euro | 537 Euro |
 
-| S 2.270,-- | S 7.300,-- |
+| 169 Euro | 543,50 Euro |
 
-| S 2.085,-- | S 7.380,-- |
+| 155,20 Euro | 549,40 Euro |
 
-| S 1.900,-- | S 7.540,-- |
+| 141,40 Euro | 561,70 Euro |
 
-| S 1.715,-- | S 7.620,-- |
+| 127,60 Euro | 567,50 Euro |
 
-| S 1.530,-- | S 7.710,-- |
+| 113,80 Euro | 574,10 Euro |
 
-| S 1.345,-- | S 7.880,-- |
+| 100 Euro | 586,40 Euro |
 
-| S 1.160,-- | S 7.950,-- |
+| 86,50 Euro | 592,20 Euro |
 
-| S 975,-- | S 8.030,-- |
+| 72,70 Euro | 598,10 Euro |
 
-| S 790,-- | S 8.20,-- |
+| 58,90 Euro | 610,40 Euro |
