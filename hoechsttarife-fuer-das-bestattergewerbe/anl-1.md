@@ -1,157 +1,123 @@
-Anlage 1
+### Anlage 1
 
-Tarifpost Arbeitsleistung Höchstbetrag
+| Tarifpost | Arbeitsleistung | Höchstbetrag in Euro |
 
-in Euro
+| I. Beschaffung der Unterlagen, Versargen und Überführung in die Leichenhalle des Sterbeortes |
 
-I. Beschaffung der Unterlagen, Versargen und Überführung in die Leichenhalle des Sterbeortes
+| 1. | Besorgung der erforderlichen Unterlagen zur Durchführung des Bestattungsauftrages | 40,55 |
 
-1. Besorgung der erforderlichen Unterlagen zur Durchführung
+| 2. | Zustellung des Sarges, der Sargausstattung und der Totenkleidung | 35,21 |
 
-des Bestattungsauftrages 38
+| 3. | a) Waschen | 19,21 |
 
-2. Zustellung des Sarges, der Sargausstattung und der
+| b) Rasieren | 11,74 |
 
-Totenkleidung 33
+| c) Ankleiden | 38,41 |
 
-3. a) Waschen 18
+| 4. | Einsargen des Toten | 26,68 |
 
-b) Rasieren 11
+| 5. | Angurten des Toten | 9,60 |
 
-c) Ankleiden 36
+| 6. | Schließen des Sarges |
 
-4. Einsargen des Toten 25
+| a) einfaches Verschließen | 5,34 |
 
-5. Angurten des Toten 9
+| b) Verkitten und Verschrauben | 23,47 |
 
-6. Schließen des Sarges
+| c) Verlöten des Metallsargeinsatzes | 48,02 |
 
-a) einfaches Verschließen 5
+| 7. | Überführung des Toten vom Sterbeort in die zum Sterbeort gehörende Leichenhalle (Fahrzeug einschließlich Fahrer und Begleitperson) bis höchstens 3 Kilometer | 56,55 |
 
-b) Verkitten und Verschrauben 22
+| Zuschlag für jeden weiteren Kilometer | 3,56 |
 
-c) Verlöten des Metallsargeinsatzes 45
+| 8. | Reinigung und Desinfektion des Fahrzeuges | 9,60 |
 
-7. Überführung des Toten vom Sterbeort in die zum Sterbeort
+| 9. | Beistellung eines Sanitätssarges (Bergungssarg) | 39,48 |
 
-gehörende Leichenhalle (Fahrzeug einschließlich Fahrer
+| II. Aufbahrung |
 
-und Begleitperson) bis höchstens 3 Kilometer 53
+| 10. | Beistellung des Aufbahrungstisches bzw. Bahrwagens | 12,80 |
 
-Zuschlag für jeden weiteren Kilometer 3,34
+| 11. | Beistellung eines beleuchteten Kreuzes | 17,07 |
 
-8. Reinigung und Desinfektion des Fahrzeuges 9
+| 12. | Beistellung eines Abdecktuches für den Aufbahrungstisch | 7,47 |
 
-9. Beistellung eines Sanitätssarges (Bergungssarg) 37
+| 13. | Drapierung des Aufbahrungstisches | 10,67 |
 
-II. Aufbahrung
+| 14. | Beistellung von Leuchtern mit Wachskerzen oder elektrischer Beleuchtung pro Stück | 5,34 |
 
-10. Beistellung des Aufbahrungstisches bzw. Bahrwagens 12
+| 15. | Beistellung von Kandelabern und Reihenleuchtern pro Stück | 33,08 |
 
-11. Beistellung eines beleuchteten Kreuzes 16
+| 16. | Beistellung von Tisch mit Kreuz, Weihwasserbehälter und zwei Vorleuchtern | 10,67 |
 
-12. Beistellung eines Abdecktuches für den
+| 17. | Beistellung von Kranzständern pro Stück | 2,13 |
 
-Aufbahrungstisch 7
+| 18. | Beistellung und Anbringung der Trauerfahne am Trauerhaus | 21,34 |
 
-13. Drapierung des Aufbahrungstisches 2
+| 19. | Zubringen der Aufbahrungsgegenstände bei nicht ausgestatteten Leichenhallen für die |
 
-14. Beistellung von Leuchtern mit Wachskerzen oder
+| erste Klasse | 32,01 |
 
-elektrischer Beleuchtung pro Stück 5
+| zweite Klasse | 26,68 |
 
-15. Beistellung von Kandelabern und Reihenleuchtern
+| dritte Klasse | 12,80 |
 
-pro Stück 31
+| 20. | Abräumen und Reinigung der Aufbahrungsgegenstände für die |
 
-16. Beistellung von Tisch mit Kreuz, Weihwasserbehälter
+| erste Klasse | 32,01 |
 
-und zwei Vorleuchtern 10
+| zweite Klasse | 26,68 |
 
-17. Beistellung von Kranzständern pro Stück 2
+| dritte Klasse | 14,94 |
 
-18. Beistellung und Anbringung der Trauerfahne am
+| 21. | Beistellung einer Aufbahrung nach |
 
-Trauerhaus 20
+| erster Klasse | 410,80 |
 
-19. Zubringen der Aufbahrungsgegenstände bei nicht
+| zweiter Klasse | 263,55 |
 
-ausgestatteten Leichenhallen für die
+| dritter Klasse | 116,30 |
 
-erste Klasse 30
+| III. Kondukt und Bestattung |
 
-zweite Klasse 25
+| 22. | Beistellung eines Arrangeurs | 35,21 |
 
-dritte Klasse 12
+| 23. | Beistellung eines Sarg- oder Lampionträgers | 34,14 |
 
-20. Abräumen und Reinigung der Aufbahrungsgegenstände
+| 24. | Bekleidungspauschale je Sarg- oder Lampionträger | 6,40 |
 
-für die
+| 25. | Konduktfahrten außerhalb des Friedhofes (Fahrzeug einschließlich Fahrer) |
 
-erste Klasse 30
+| bis höchstens 3 Kilometer | 70,42 |
 
-zweite Klasse 25
+| Zuschlag für jeden weiteren Kilometer | 10,63 |
 
-dritte Klasse 14
+| 26. | Beistellung eines Blumenwagens (einschließlich Fahrers) bis höchstens 3 Kilometer | 52,28 |
 
-21. Beistellung einer Aufbahrung nach
+| Zuschlag für jeden weiteren Kilometer | 10,63 |
 
-erster Klasse 385
+| 27. | Konduktfahrten mit Bahrwagen innerhalb des Friedhofes oder Tragen des Sarges (von der Leichenhalle zum Grab) | 27,74 |
 
-zweiter Klasse 247
+| 28. | Beistellung des Bahrwagens | 35,21 |
 
-dritter Klasse 109
+| 29. | Beistellung der Tragbahre | 9,60 |
 
-III. Kondukt und Bestattung
+| 30. | Beistellung eines Versenkungsapparates | 29,88 |
 
-22. Beistellung eines Arrangeurs 33
+| 31. | Beistellung einer Lautsprecheranlage | 38,41 |
 
-23. Beistellung eines Sarg- oder Lampionträgers 32
+| 32. | Beförderung der Kränze von der Leichenhalle zum Grab | 27,74 |
 
-24. Bekleidungspauschale je Sarg- oder Lampionträger 6
+| 33. | Abräumen und Reinigung der Bestattungsgegenstände | 30,94 |
 
-25. Konduktfahrten außerhalb des Friedhofes (Fahrzeug
+| IV. Überführung im Inland |
 
-einschließlich Fahrer)
+| 34. | Überführung des Toten vom Sterbeort in eine nicht zum Sterbeort gehörende Leichenhalle (Überführungsfahrzeug einschließlich Fahrer) |
 
-bis höchstens 3 Kilometer 66
+| pro Kilometer | 1,94 |
 
-Zuschlag für jeden weiteren Kilometer 9,96
+| Begleitperson pro angefangene halbe Stunde | 8,99 |
 
-26. Beistellung eines Blumenwagens (einschließlich Fahrer)
+| Zuschlag bis 40 Kilometer | 62,95 |
 
-bis höchstens 3 Kilometer 49
-
-Zuschlag für jeden weiteren Kilometer 9,96
-
-27. Konduktfahrten mit Bahrwagen innerhalb des Friedhofes
-
-oder Tragen des Sarges (von der Leichenhalle
-
-zum Grab) 26
-
-28. Beistellung des Bahrwagens 33
-
-29. Beistellung der Tragbahre 9
-
-30. Beistellung eines Versenkungsapparates 28
-
-31. Beistellung einer Lautsprecheranlage 36
-
-32. Beförderung der Kränze von der Leichenhalle zum Grab 26
-
-33. Abräumen und Reinigung der Bestattungsgegenstände 29
-
-IV. Überführung im Inland
-
-34. Überführung des Toten vom Sterbeort in eine nicht zum
-
-Sterbeort gehörende Leichenhalle (Überführungsfahrzeug
-
-einschließlich Fahrer) pro Kilometer 1,82
-
-Begleitperson pro angefangene halbe Stunde 8,43
-
-Zuschlag bis 40 Kilometer 59
-
-Zuschlag von 41 bis 100 Kilometer 33
+| Zuschlag von 41 bis 100 Kilometer | 35,21 |
