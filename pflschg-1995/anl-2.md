@@ -22,8 +22,6 @@ Heugraben;
 
 - 3. im politischen Bezirk Mattersburg:
 
-Antau;
-
 Baumgarten;
 
 - 4. im politischen Bezirk Oberpullendorf:
@@ -48,7 +46,9 @@ Markt Neuhodis
 
 Schachendorf
 
-(im Ortsteil Schachendorf und Schandorf),
+(im Ortsteil Schachendorf),
+
+Schandorf
 
 Weiden bei Rechnitz
 
