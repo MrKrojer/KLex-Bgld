@@ -1,6 +1,6 @@
 ### Anhang A zum Bgld. Pflichtschulgesetz (§ 32 Abs. 3 erster Satz)
 
-Gemeinden (Ortsteile), in denen zweisprachige Volksschulen eingerichtet sind:
+### Gemeinden (Ortsteile), in denen zweisprachige Volksschulen eingerichtet sind:
 
 mit kroatischer und deutscher Unterrichtssprache
 
@@ -29,6 +29,8 @@ Neuberg im Burgenland,
 Stinatz;
 
 - 3. im politischen Bezirk Mattersburg:
+
+Antau,
 
 Draßburg;
 
