@@ -32,7 +32,7 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 1.4. Eine Nachsicht von den in Z 1.3 lit. a bis c angeführten Ernennungserfordernissen ist ausgeschlossen.
 
-### Definitivstellungserfordernisse:
+Definitivstellungserfordernisse:
 
 1.5. Für alle Verwendungen (ausgenommen Ärzte an Krankenanstalten und Apotheker) der erfolgreiche Abschluß der Grundausbildung für die Verwendungsgruppe A.
 
@@ -84,9 +84,11 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 Die geforderten Kenntnisse sind durch staatsgültige Zeugnisse auf Grund schulrechtlicher Vorschriften nachzuweisen. Wenn diese Zeugnisse auf Grund von Externistenprüfungen erworben werden, sind sie nur dann für die Beamten-Aufstiegsprüfung anzuerkennen, wenn in den Fächern Deutsch, Mathematik und Fremdsprache (weitere Fremdsprache) eine schriftliche und mündliche Prüfung abgelegt wurde.
 
+2.4. Das Erfordernis der Z 2.1 wird durch die erfolgreiche Ablegung der Berufsreifeprüfung nach dem Bundesgesetz über die Berufsreifeprüfung, BGBl. I Nr. 68/1997, in der Fassung des Bundesgesetzes BGBl. I Nr. 21/1998, ersetzt.
+
 ## Sonderbestimmungen für einzelne Verwendungen
 
-2.4.
+2.5.
 
 | für die Verwendung | Erfordernis |
 
@@ -96,7 +98,7 @@ Die geforderten Kenntnisse sind durch staatsgültige Zeugnisse auf Grund schulre
 
 ### Definitivstellungserfordernis:
 
-2.5. Für alle Verwendungen (ausgenommen medizinisch-technischer Dienst) der erfolgreiche Abschluß der Grundausbildung für die Verwendungsgruppe B.
+2.6. Für alle Verwendungen (ausgenommen medizinisch-technischer Dienst) der erfolgreiche Abschluß der Grundausbildung für die Verwendungsgruppe B.
 
 ## 3. VERWENDUNGSGRUPPE C
 
