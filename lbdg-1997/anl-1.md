@@ -16,7 +16,7 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 1.1. Eine der Verwendung entsprechende abgeschlossene Hochschulbildung. Diese ist durch den Erwerb eines auf Grund eines Diplomstudiums erlangten Diplomgrades gemäß § 66 Abs. 1 in Verbindung mit Anlage 1 Universitäts-Studiengesetz (UniStG), BGBl. I Nr. 48/1997, nachzuweisen.
 
-1.2. Das Ernennungserfordernis des Abschlusses eines Hochschulstudiums der Rechtswissenschaften oder der Sozial- und Wirtschaftswissenschaften wird durch die erfolgreiche Absolvierung eines für den betreffenden Bereich von der Verwaltungsakademie des Bundes veranstalteten Aufstiegskurses ersetzt.
+1.2. Das Ernennungserfordernis des Abschlusses eines Hochschulstudiums der Rechtswissenschaften oder der Sozial- und Wirtschaftswissenschaften wird durch die erfolgreiche Absolvierung eines für den betreffenden Bereich von der Verwaltungsakademie des Bundes oder vom Bundesministerium für öffentliche Leistungen und Sport veranstalteten Aufstiegskurses ersetzt.
 
 ## Sonderbestimmungen für einzelne Verwendungen
 
