@@ -1,1 +1,1 @@
-Anlage 2 nicht darstellbar
+### Anlage 2
