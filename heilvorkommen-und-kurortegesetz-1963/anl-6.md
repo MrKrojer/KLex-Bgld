@@ -6,7 +6,7 @@ Eine Peloid-Vollanalyse hat folgende Angaben zu umfassen:
 
 - a) kurze Anführung der bisher von dem betreffenden Lager durchgeführten Untersuchungen;
 
-- b) Beschreibung der Mächtigkeit des Lagers sowie makroskopische Beschreibung des Peloids: Farbe, Konsistenz, Homogenität, Geruch, gröbere Bestandteile, Zersetzungsgrad;
+- b) Beschreibung der Mächtigkeit des Lagers sowie akroskopische Beschreibung des Peloids: Farbe, Konsistenz, Homogenität, Geruch, gröbere Bestandteile, Zersetzungsgrad;”
 
 - c) mikroskopische Untersuchung: Zersetzungsgrad, charakteristische Pflanzenbestandteile, mineralische Substanz;
 
@@ -16,6 +16,6 @@ Eine Peloid-Vollanalyse hat folgende Angaben zu umfassen:
 
 - f) hygienisch-bakteriologische Untersuchung;
 
-- g) bei Badetorfen auch Untersuchung des Moorwassers, Sinnesprüfung bei der Probenahme und im Laboratorium mit Datum, pH-Wert elektrometrisch womöglich im Lager bestimmt, elektrolytische Leitfähigkeit bei der Temperatur des Lagers und bei 20 ºC, Trockenrückstand bei 105 Grad und 180 ºC, Glühverlust, Glührückstand, Kaliumpermanganatverbrauch, anorganische Bestandteile qualitativ, fallweise Calcium- und Magnesium-Ionen quantitativ;
+- g) bei Badetorfen auch Untersuchung des Moorwassers: Sinnesprüfung bei der Probenahme und im Laboratorium mit Datum, pH-Wert elektrometrisch womöglich im Lager bestimmt, elektrolytische Leitfähigkeit bei der Temperatur des Lagers und bei 20 ºC, Trockenrückstand bei 105 ºC und 180 ºC, Glühverlust, Glührückstand, Kaliumpermanganatverbrauch, anorganische Bestandteile qualitativ, fallweise Calcium- und Magnesium-Ionen quantitativ;
 
 - h) Charakterisierung des Peloids und dessen Beurteilung, Hinweise für die Aufbereitung eines normalkonsistenten Peloidbades bzw. für die Aufbereitung von Packungen.
