@@ -14,7 +14,7 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 ## Allgemeine Bestimmungen
 
-1.1. Eine der Verwendung entsprechende abgeschlossene Hochschulbildung. Diese ist durch Erwerbung des Diplomgrades gemäß § 35 des Allgemeinen Hochschul-Studiengesetzes nachzuweisen.
+1.1. Eine der Verwendung entsprechende abgeschlossene Hochschulbildung. Diese ist durch den Erwerb eines auf Grund eines Diplomstudiums erlangten Diplomgrades gemäß § 66 Abs. 1 in Verbindung mit Anlage 1 Universitäts-Studiengesetz (UniStG), BGBl. I Nr. 48/1997, nachzuweisen.
 
 1.2. Das Ernennungserfordernis des Abschlusses eines Hochschulstudiums der Rechtswissenschaften oder der Sozial- und Wirtschaftswissenschaften wird durch die erfolgreiche Absolvierung eines für den betreffenden Bereich von der Verwaltungsakademie des Bundes veranstalteten Aufstiegskurses ersetzt.
 
@@ -32,7 +32,7 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 1.4. Eine Nachsicht von den in Z 1.3 lit. a bis c angeführten Ernennungserfordernissen ist ausgeschlossen.
 
-Definitivstellungserfordernisse:
+### Definitivstellungserfordernisse:
 
 1.5. Für alle Verwendungen (ausgenommen Ärzte an Krankenanstalten und Apotheker) der erfolgreiche Abschluß der Grundausbildung für die Verwendungsgruppe A.
 
