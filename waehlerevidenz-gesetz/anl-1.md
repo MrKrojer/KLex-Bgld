@@ -1,3 +1,3 @@
 ### Anlage 1
 
-/Dokumente/Landesnormen/LBG40012334/image001.jpg
+/Dokumente/Landesnormen/LBG40005287/image001.jpg
