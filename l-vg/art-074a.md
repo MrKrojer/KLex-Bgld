@@ -1,6 +1,6 @@
-Artikel 74a
+### Artikel 74a
 
-Verfahren des Landes-Rechnungshofes
+### Verfahren des Landes-Rechnungshofes
 
 (1) Der Landes-Rechnungshof hat Prüfungen im Sinne des Artikels 74 Absatz 2 Z 1 bis 5 von Amts wegen oder auf Verlangen
 
@@ -32,6 +32,6 @@ durchzuführen.
 
 zur Kenntnis zu bringen. Danach hat der Landes-Rechnungshof derartige Berichte in geeigneter Weise zu veröffentlichen.
 
-(4) Der Landes-Rechnungshof hat Gutachten gemäß Artikel 74 Absatz 2 Z 6 der Landesregierung sowie Stellungnahmen gemäß Artikel 74 Absatz 2 Z 7 dem Präsidenten des Landtages unverzüglich nach Abschluss der Prüfung schriftlich zu übermitteln.
+(4) Der Landes-Rechnungshof hat Gutachten gemäß Artikel 74 Absatz 2 Z 6 der Landesregierung sowie Stellungnahmen gemäß Artikel 74 Absatz 2 Z 7 der Präsidentin oder dem Präsidenten des Landtages unverzüglich nach Abschluss der Prüfung schriftlich zu übermitteln.
 
 (5) Der Landes-Rechnungshof hat dem Landtag jeweils bis spätestens 31. März einen zusammenfassenden schriftlichen Bericht über seine Tätigkeit im vorangegangenen Kalenderjahr (Tätigkeitsbericht) zu übermitteln.

@@ -1,16 +1,16 @@
-Artikel 74b
+### Artikel 74b
 
-Organisation des Landes-Rechnungshofes
+### Organisation des Landes-Rechnungshofes
 
-(1) Der Landes-Rechnungshof besteht aus dem Direktor des Landes-Rechnungshofes und den sonstigen Bediensteten.
+(1) Der Landes-Rechnungshof besteht aus der Direktorin oder dem Direktor des Landes-Rechnungshofes und den sonstigen Bediensteten.
 
-(2) Der Direktor des Landes-Rechnungshofes wird - nach öffentlicher Ausschreibung und Durchführung einer Anhörung vor dem Landeskontrollausschuss - vom Landtag bei Anwesenheit von mindestens der Hälfte der Mitglieder mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen bestellt.
+(2) Die Direktorin oder der Direktor des Landes-Rechnungshofes wird - nach öffentlicher Ausschreibung und Durchführung einer Anhörung vor dem Landeskontrollausschuss - vom Landtag bei Anwesenheit von mindestens der Hälfte der Mitglieder mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen bestellt.
 
-(3) Der Direktor des Landes-Rechnungshofes - und im Vertretungsfall sein Vertreter - sind hinsichtlich ihrer rechtlichen Verantwortlichkeit den Mitgliedern der Landesregierung gleichgestellt (Artikel 57).
+(3) Die Direktorin oder der Direktor des Landesrechnungshofes - und im Vertretungsfall die Vertreterin oder der Vertreter - sind hinsichtlich ihrer rechtlichen Verantwortlichkeit den Mitgliedern der Landesregierung gleichgestellt (Artikel 57).
 
-(4) Die Amtsperiode des Direktors des Landes-Rechnungshofes beträgt zehn Jahre; eine Wiederbestellung ist unzulässig. Die Amtsperiode des Direktors endet vor ihrem Ablauf im Sinne des ersten Satzes durch
+(4) Die Amtsperiode der Direktorin oder des Direktors des Landes-Rechnungshofes beträgt zehn Jahre; eine Wiederbestellung ist unzulässig. Die Amtsperiode der Direktorin oder des Direktors endet vor ihrem Ablauf im Sinne des ersten Satzes durch
 
-- 1. einen gegenüber dem Präsidenten des Landtages erklärten schriftlichen, unwiderruflichen Verzicht auf die weitere Amtsausübung;
+- 1. einen gegenüber der Präsidentin oder dem Präsidenten des Landtages erklärten schriftlichen, unwiderruflichen Verzicht auf die weitere Amtsausübung;
 
 - 2. den Wegfall einer Bestellungsvoraussetzung;
 
