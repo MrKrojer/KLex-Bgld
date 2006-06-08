@@ -32,7 +32,7 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 1.4. Eine Nachsicht von den in Z 1.3 lit. a bis c angeführten Ernennungserfordernissen ist ausgeschlossen.
 
-### Definitivstellungserfordernisse:
+Definitivstellungserfordernisse:
 
 1.5. Für alle Verwendungen (ausgenommen Ärzte an Krankenanstalten und Apotheker) der erfolgreiche Abschluß der Grundausbildung für die Verwendungsgruppe A.
 
@@ -44,17 +44,17 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 ## Allgemeine Bestimmungen
 
-2.1. Die erfolgreiche Ablegung der Reifeprüfung an einer höheren Schule. Als Reifeprüfung gilt auch das Diplom einer Akademie für Sozialarbeit. Die erfolgreiche Ablegung der Reifeprüfung wird ersetzt
+2.1. Die erfolgreiche Ablegung der Reife- und Diplomprüfung bzw. Reifeprüfung an einer höheren Schule. Als Reife- und Diplomprüfung bzw. Reifeprüfung gilt auch das Diplom einer Akademie für Sozialarbeit. Die erfolgreiche Ablegung der Reife- und Diplomprüfung bzw. der Reifeprüfung wird ersetzt
 
-- a) durch eine abgeschlossene Hochschulbildung, wenn mit dieser auch das Ernennungserfordernis für die Verwendungsgruppe A erfüllt wird oder
+- a) durch eine abgeschlossene Universitätsausbildung, wenn mit dieser auch das Ernennungserfordernis für die Verwendungsgruppe A erfüllt wird oder
 
-- b) durch den Abschluß der für einen Fachhochschul-Studiengang vorgeschriebenen Studien und Prüfungen im Sinne des § 5 des Bundesgesetzes über Fachhochschul-Studiengänge, BGBl. Nr. 340/1993.
+- b) durch den Abschluss der für einen Fachhochschul-Studiengang vorgeschriebenen Studien und Prüfungen im Sinne des § 5 des Bundesgesetzes über Fachhochschul-Studiengänge, BGBl. Nr. 340/1993.
 
 2.2. Das Erfordernis der Z 2.1 wird durch die gemeinsame Erfüllung aller folgenden Voraussetzungen ersetzt:
 
 - a) Lehrabschluß nach dem Berufsausbildungsgesetz, BGBl. Nr. 142/1969,
 
-- b) erfolgreicher Abschluß einer mindestens dreijährigen Ausbildung an einer Fachakademie nach § 18 Abs. 1 Z 5 der Gewerbeordnung 1994, BGBl. Nr. 194, die bei einer Einrichtung einer Körperschaft des öffentlichen Rechts geführt wird, und
+- b) erfolgreicher Abschluß einer mindestens zweijährigen Ausbildung an einer Fachakademie die bei einer Einrichtung einer Körperschaft des öffentlichen Rechts geführt wird, und
 
 - c) erfolgreiche Ablegung der Studienberechtigungsprüfung nach dem Studienberechtigungsgesetz, BGBl. Nr. 292/1985.
 
