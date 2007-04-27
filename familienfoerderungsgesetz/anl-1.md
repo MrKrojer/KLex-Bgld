@@ -1,17 +1,17 @@
-### Anlage zu § 8
+## Anlage zu § 8
 
-### Familienbonus nach gewichtetem Pro-Kopf-Einkommen in Euro
+Familienbonus nach gewichtetem Pro-Kopf-Einkommen in Euro
 
-| monatlicher Bonus | gewichtetes Pro-Kopf-Einkommen |
+monatlicher Bonus gewichtetes Pro-Kopf-Einkommen
 
-| 217 | 568 |
+217 568
 
-| 187 | 588 |
+187 588
 
-| 156 | 607 |
+156 607
 
-| 126 | 621 |
+126 621
 
-| 96 | 640 |
+96 640
 
-| 66 | 660 |
+66 660
