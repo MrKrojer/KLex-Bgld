@@ -1,6 +1,6 @@
 ### Anlage C zum Bgld. Pflichtschul- gesetz (§ 33 Abs. 3)
 
-### Hauptschulen im Einzugsbereich zweisprachiger Volksschulen:
+Hauptschulen im Einzugsbereich zweisprachiger Volksschulen:
 
 - 1. in den politischen Bezirken Eisenstadt-Stadt, Rust und Eisenstadt-Umgebung:
 
@@ -88,4 +88,8 @@ mit den Volksschulen Siget in der Wart, Spitzzicken und Unterwart,
 
 Hauptschule Rechnitz
 
-mit den Volksschulen Dürnbach und Weiden bei Rechnitz.
+mit der Volksschule Dürnbach,
+
+Hauptschule Großpetersdorf
+
+mit der Volksschule Weiden bei Rechnitz.
