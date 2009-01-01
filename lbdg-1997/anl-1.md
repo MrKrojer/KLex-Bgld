@@ -14,7 +14,11 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 ## Allgemeine Bestimmungen
 
-1.1. Eine der Verwendung entsprechende abgeschlossene Hochschulbildung. Diese ist durch den Erwerb eines auf Grund eines Diplomstudiums erlangten Diplomgrades gemäß § 66 Abs. 1 in Verbindung mit Anlage 1 Universitäts-Studiengesetz (UniStG), BGBl. I Nr. 48/1997, nachzuweisen.
+1.1. Eine der Verwendung entsprechende abgeschlossene Hochschulbildung. Diese ist nachzuweisen durch:
+
+- a) den Erwerb eines Diplom-, Master- oder Doktorgrades gemäß § 87 Abs. 1 des Universitätsgesetzes 2002 oder
+
+- b) den Erwerb eines akademischen Grades gemäß § 5 Abs. 2 des Fachhochschul-Studiengesetzes aufgrund des Abschlusses eines Fachhochschul-Masterstudienganges oder eines Fachhochschul-Diplomstudienganges, soweit dieser nicht Ernennungserfordernis einer anderen Besoldungs- oder Verwendungsgruppe ist.
 
 1.2. Das Ernennungserfordernis des Abschlusses eines Hochschulstudiums der Rechtswissenschaften oder der Sozial- und Wirtschaftswissenschaften wird durch die erfolgreiche Absolvierung eines für den betreffenden Bereich von der Verwaltungsakademie des Bundes oder vom Bundesministerium für öffentliche Leistungen und Sport veranstalteten Aufstiegskurses ersetzt.
 
@@ -44,11 +48,11 @@ Definitivstellungserfordernisse:
 
 ## Allgemeine Bestimmungen
 
-2.1. Die erfolgreiche Ablegung der Reife- und Diplomprüfung bzw. Reifeprüfung an einer höheren Schule. Als Reife- und Diplomprüfung bzw. Reifeprüfung gilt auch das Diplom einer Akademie für Sozialarbeit. Die erfolgreiche Ablegung der Reife- und Diplomprüfung bzw. der Reifeprüfung wird ersetzt
+2.1. Die erfolgreiche Ablegung der Reife- und Diplomprüfung bzw. Reifeprüfung an einer höheren Schule. Als Reife- und Diplomprüfung bzw. Reifeprüfung gilt auch das Diplom einer Akademie für Sozialarbeit. Die erfolgreiche Ablegung der Reifeprüfung wird ersetzt
 
-- a) durch eine abgeschlossene Universitätsausbildung, wenn mit dieser auch das Ernennungserfordernis für die Verwendungsgruppe A erfüllt wird oder
+- a) durch ein abgeschlossenes ordentliches Universitätsstudium gemäß § 87 Abs. 1 des Universitätsgesetzes 2002 oder
 
-- b) durch den Abschluss der für einen Fachhochschul-Studiengang vorgeschriebenen Studien und Prüfungen im Sinne des § 5 des Bundesgesetzes über Fachhochschul-Studiengänge, BGBl. Nr. 340/1993.
+- b) durch den Abschluss der für einen Fachhochschul-Studiengang vorgeschriebenen Studien und Prüfungen im Sinne des § 5 des Bundesgesetzes über Fachhochschul-Studiengänge.
 
 2.2. Das Erfordernis der Z 2.1 wird durch die gemeinsame Erfüllung aller folgenden Voraussetzungen ersetzt:
 
