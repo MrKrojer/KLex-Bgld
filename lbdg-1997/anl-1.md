@@ -18,9 +18,9 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 - a) den Erwerb eines Diplom-, Master- oder Doktorgrades gemäß § 87 Abs. 1 des Universitätsgesetzes 2002 oder
 
-- b) den Erwerb eines akademischen Grades gemäß § 5 Abs. 2 des Fachhochschul-Studiengesetzes aufgrund des Abschlusses eines Fachhochschul-Masterstudienganges oder eines Fachhochschul-Diplomstudienganges, soweit dieser nicht Ernennungserfordernis einer anderen Besoldungs- oder Verwendungsgruppe ist.
+- b) den Erwerb eines akademischen Grades gemäß § 5 Abs. 2 des Fachhochschul-Studiengesetzes aufgrund des Abschlusses eines Fachhochschul-Masterstudienganges oder eines Fachhochschul-Diplomstudienganges.
 
-1.2. Das Ernennungserfordernis des Abschlusses eines Hochschulstudiums der Rechtswissenschaften oder der Sozial- und Wirtschaftswissenschaften wird durch die erfolgreiche Absolvierung eines für den betreffenden Bereich von der Verwaltungsakademie des Bundes oder vom Bundesministerium für öffentliche Leistungen und Sport veranstalteten Aufstiegskurses ersetzt.
+1.2. Das Ernennungserfordernis des Abschlusses eines Hochschulstudiums der Rechtswissenschaften oder der Sozial- und Wirtschaftswissenschaften wird durch die erfolgreiche Absolvierung eines vom Bundeskanzleramt veranstalteten Aufstiegskurses ersetzt.
 
 ## Sonderbestimmungen für einzelne Verwendungen
 
@@ -36,7 +36,7 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 1.4. Eine Nachsicht von den in Z 1.3 lit. a bis c angeführten Ernennungserfordernissen ist ausgeschlossen.
 
-Definitivstellungserfordernisse:
+### Definitivstellungserfordernisse:
 
 1.5. Für alle Verwendungen (ausgenommen Ärzte an Krankenanstalten und Apotheker) der erfolgreiche Abschluß der Grundausbildung für die Verwendungsgruppe A.
 
@@ -62,31 +62,7 @@ Definitivstellungserfordernisse:
 
 - c) erfolgreiche Ablegung der Studienberechtigungsprüfung nach dem Studienberechtigungsgesetz, BGBl. Nr. 292/1985.
 
-2.3. Das Erfordernis der Z 2.1 wird durch die erfolgreiche Ablegung der Beamten-Aufstiegsprüfung ersetzt, wenn der Beamte außerdem nach der Vollendung des 18. Lebensjahres acht Jahre in einem Dienstverhältnis zu einer inländischen Gebietskörperschaft zurückgelegt hat. Die Beamten-Aufstiegsprüfung hat folgende Fächer zu umfassen:
-
-- a) Pflichtfächer (im vollen Umfang des Lehrplanes einer naturwissenschaftlichen Realgymnasiums):
-
-  - aa) Deutsch,
-
-  - bb) Geschichte und Sozialkunde,
-
-  - cc) Geographie und Wirtschaftskunde und
-
-- b) nach Wahl des Kandidaten zwei der folgenden Fächer im Umfang des Lehrplanes eines Realgymnasiums bis einschließlich zur 6. Klasse, davon jedenfalls eines der in sublit. aa bis cc angeführten Fächer:
-
-  - aa) Fremdsprache,
-
-  - bb) eine weitere Fremdsprache,
-
-  - cc) Mathematik,
-
-  - dd) Physik,
-
-  - ee) Chemie,
-
-  - ff) Naturgeschichte.
-
-Die geforderten Kenntnisse sind durch staatsgültige Zeugnisse auf Grund schulrechtlicher Vorschriften nachzuweisen. Wenn diese Zeugnisse auf Grund von Externistenprüfungen erworben werden, sind sie nur dann für die Beamten-Aufstiegsprüfung anzuerkennen, wenn in den Fächern Deutsch, Mathematik und Fremdsprache (weitere Fremdsprache) eine schriftliche und mündliche Prüfung abgelegt wurde.
+(2.3. entfällt laut LGBl. Nr. 79/2009)
 
 2.4. Das Erfordernis der Z 2.1 wird durch die erfolgreiche Ablegung der Berufsreifeprüfung nach dem Bundesgesetz über die Berufsreifeprüfung, BGBl. I Nr. 68/1997, in der Fassung des Bundesgesetzes BGBl. I Nr. 21/1998, ersetzt.
 
@@ -98,7 +74,7 @@ Die geforderten Kenntnisse sind durch staatsgültige Zeugnisse auf Grund schulre
 
 | a) im medizinisch-technischen Dienst | zusätzlich zum Erfordernis der Z 2.1 die Erfüllung der Voraussetzungen zur Ausübung des Gehobenen medizinisch-technischen Dienstes nach dem Bundesgesetz BGBl. Nr. 102/1961, oder nach dem Gesetz über die Regelung der gehobenen medizinisch-technischen Dienste (MTD-Gesetz), BGBl. Nr. 460/1992 |
 
-| b) im sozialen Betreuungsdienst | das Erfordernis der Z 2.1 wird ersetzt durch die Absolvierung einer früheren Lehranstalt für gehobene Sozialberufe; in die gemäß § 2.3 erforderliche Zeit von acht Jahren können Zeiten einer einschlägigen Tätigkeit außerhalb des Dienstes bei einer inländischen Gebietskörperschaft oder einem Gemeindeverband eingerechnet werden |
+| b) im sozialen Betreuungsdienst | das Erfordernis der Z 2.1 wird ersetzt durch die Absolvierung einer früheren Lehranstalt für gehobene Sozialberufe |
 
 ### Definitivstellungserfordernis:
 
