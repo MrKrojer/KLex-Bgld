@@ -1,8 +1,8 @@
-### Anlage
+### Anlage 1
 
-### (zu § 10 Abs. 3 Z 3)
+### (zu § 10 Abs. 3 Z 6 LBBG 2001)
 
-Das Höchstausmaß für die Berücksichtigung der Zeit des Hochschulstudiums nach § 10 Abs. 3 Z 2 beträgt
+Das Höchstausmaß für die Berücksichtigung der Zeit des Hochschulstudiums nach § 10 Abs. 3 Z 6 LBBG 2001 beträgt
 
 - 1. sieben Jahre für die Studienrichtungen Chemie, Nachrichtentechnik und Elektrotechnik;
 
