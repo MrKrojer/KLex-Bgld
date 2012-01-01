@@ -62,7 +62,7 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 - c) erfolgreiche Ablegung der Studienberechtigungsprüfung nach dem Studienberechtigungsgesetz, BGBl. Nr. 292/1985.
 
-(2.3. entfällt laut LGBl. Nr. 79/2009)
+2.3. (Anm.: entfallen mit LGBl. Nr. 79/2009)
 
 2.4. Das Erfordernis der Z 2.1 wird durch die erfolgreiche Ablegung der Berufsreifeprüfung nach dem Bundesgesetz über die Berufsreifeprüfung, BGBl. I Nr. 68/1997, in der Fassung des Bundesgesetzes BGBl. I Nr. 21/1998, ersetzt.
 
@@ -75,6 +75,8 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 | a) im medizinisch-technischen Dienst | zusätzlich zum Erfordernis der Z 2.1 die Erfüllung der Voraussetzungen zur Ausübung des Gehobenen medizinisch-technischen Dienstes nach dem Bundesgesetz BGBl. Nr. 102/1961, oder nach dem Gesetz über die Regelung der gehobenen medizinisch-technischen Dienste (MTD-Gesetz), BGBl. Nr. 460/1992 |
 
 | b) im sozialen Betreuungsdienst | das Erfordernis der Z 2.1 wird ersetzt durch die Absolvierung einer früheren Lehranstalt für gehobene Sozialberufe |
+
+| c) im Gehobenen Sozialdienst | zusätzlich zu den Erfordernissen der Z 2.1. die Erfüllung der Voraussetzungen zur Ausübung des Gehobenen Sozialdienstes nach § 6 Abs. 4 des Burgenländischen Jugendwohlfahrtsgesetzes |
 
 ### Definitivstellungserfordernis:
 
@@ -186,7 +188,7 @@ Eignung für die vorgesehene Verwendung.
 
 ## Sonderbestimmungen für einzelne Verwendungen
 
-7.5. Für Kraftwagenlenker einer im § 6 des Bezügegesetzes, BGBl. Nr. 273/1972, im Art. 51 oder im Art. 73 Abs. 1 des Landes-Verfassungsgesetzes, LGBl. Nr. 42/1981, angeführten Person, die zusätzlich mit der Wahrnehmung von Sicherheitsaufgaben betraut sind, an Stelle der Erfordernisse der Z 7.1
+7.5. Für Kraftwagenlenker einer im § 6 des Bezügegesetzes, BGBl. Nr. 273/1972, im Art. 17 Abs. 3, im Art. 51 oder im Art. 73 Abs. 1 des Landes-Verfassungsgesetzes, LGBl. Nr. 42/1981, angeführten Person, die zusätzlich mit der Wahrnehmung von Sicherheitsaufgaben betraut sind, an Stelle der Erfordernisse der Z 7.1
 
 - a) das in Z 8.3 lit. c angeführte Erfordernis und
 
