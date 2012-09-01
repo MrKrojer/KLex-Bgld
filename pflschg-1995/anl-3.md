@@ -1,95 +1,79 @@
-### Anlage C zum Bgld. Pflichtschul- gesetz (§ 33 Abs. 3)
+### Anhang C zum Bgld. Pflichtschul- gesetz (§ 33 Abs. 3)
 
-Hauptschulen im Einzugsbereich zweisprachiger Volksschulen:
+### Hauptschulen bzw. Neue Mittelschulen im Einzugsbereich zweisprachiger Volksschulen:
 
-- 1. in den politischen Bezirken Eisenstadt-Stadt, Rust und Eisenstadt-Umgebung:
+| 1. | in den politischen Bezirken Eisenstadt-Stadt, Rust und Eisenstadt-Umgebung: |
 
-Hauptschule Eisenstadt
+| Hauptschule/Neue Mittelschule Eisenstadt |
 
-mit den Volksschulen
+| mit den Volksschulen Hornstein, Trausdorf an der Wulka und Wulkaprodersdorf, |
 
-Hornstein, Trausdorf an der Wulka und Wulkaprodersdorf,
+| Hauptschule/Neue Mittelschule Rust |
 
-Hauptschule Rust
+| mit der Volksschule Oslip, |
 
-mit der Volksschule Oslip,
+| Hauptschule/Neue Mittelschule Neufeld an der Leitha |
 
-Hauptschule Neufeld an der Leitha
+| mit der Volksschule Steinbrunn, |
 
-mit der Volksschule Steinbrunn,
+| Hauptschule/Neue Mittelschule Siegendorf |
 
-Hauptschule Siegendorf
+| mit den Volksschulen Klingenbach und Siegendorf; |
 
-mit den Volksschulen
+| 2. | im politischen Bezirk Güssing: |
 
-Klingenbach und Siegendorf;
+| Hauptschule/Neue Mittelschule Sankt Michael im Burgenland |
 
-- 2. im politischen Bezirk Güssing:
+| mit den Volksschulen Güttenbach und Neuberg im Burgenland, |
 
-Hauptschule Sankt Michael im Burgenland
+| Hauptschule/Neue Mittelschule Stegersbach |
 
-mit den Volksschulen
+| mit der Volksschule Stinatz; |
 
-Güttenbach und Neuberg im Burgenland,
+| 3. | im politischen Bezirk Mattersburg: |
 
-Hauptschule Stegersbach
+| Hauptschule/Neue Mittelschule Schattendorf |
 
-mit der Volksschule Stinatz;
+| mit der Volksschule Draßburg, |
 
-- 3. im politischen Bezirk Mattersburg:
+| Hauptschule/Neue Mittelschule Mattersburg |
 
-Hauptschule Schattendorf
+| mit der Volksschule Antau; |
 
-mit der Volksschule Draßburg,
+| 4. | im politischen Bezirk Neusiedl am See: |
 
-Hauptschule Mattersburg
+| Hauptschule/Neue Mittelschule Kittsee |
 
-mit der Volksschule Antau;
+| mit der Volksschule Pama, |
 
-- 4. im politischen Bezirk Neusiedl am See:
+| Hauptschule/Neue Mittelschule Neusiedl am See |
 
-Hauptschule Kittsee
+| mit den Volksschulen Neudorf und Parndorf; |
 
-mit der Volksschule Pama,
+| 5. | im politischen Bezirk Oberpullendorf: |
 
-Hauptschule Neusiedl am See
+| Hauptschule/Neue Mittelschule Großwarasdorf |
 
-mit den Volksschulen
+| mit den Volksschulen Großwarasdorf, Kleinwarasdorf, Nebersdorf, Nikitsch, Kroatisch Geresdorf und Kroatisch Minihof, |
 
-Neudorf und Parndorf;
+| Hauptschule/Neue Mittelschule Oberpullendorf |
 
-- 5. im politischen Bezirk Oberpullendorf:
+| mit den Volksschulen Frankenau, Kleinmutschen und Unterpullendorf, |
 
-Hauptschule Großwarasdorf
+| Hauptschule/Neue Mittelschule Stoob |
 
-mit den Volksschulen
+| mit den Volksschulen Kaisersdorf und Weingraben; |
 
-Großwarasdorf, Kleinwarasdorf, Nebersdorf, Nikitsch, Kroatisch Geresdorf
+| 6. | im politischen Bezirk Oberwart: |
 
-und Kroatisch Minihof,
+| Hauptschule/Neue Mittelschule Oberwart |
 
-Hauptschule Oberpullendorf
+| mit den Volksschulen Siget in der Wart, Spitzzicken und Unterwart, |
 
-mit den Volksschulen
+| Hauptschule/Neue Mittelschule Rechnitz |
 
-Frankenau, Kleinmutschen und Unterpullendorf,
+| mit der Volksschule Dürnbach, |
 
-Hauptschule Stoob
+| Hauptschule/Neue Mittelschule Großpetersdorf |
 
-mit den Volksschulen
-
-Kaisersdorf und Weingraben;
-
-- 6. im politischen Bezirk Oberwart:
-
-Hauptschule Oberwart
-
-mit den Volksschulen Siget in der Wart, Spitzzicken und Unterwart,
-
-Hauptschule Rechnitz
-
-mit der Volksschule Dürnbach,
-
-Hauptschule Großpetersdorf
-
-mit der Volksschule Weiden bei Rechnitz.
+| mit der Volksschule Weiden bei Rechnitz. |
