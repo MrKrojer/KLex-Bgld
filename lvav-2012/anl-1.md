@@ -592,7 +592,7 @@
 
 | höchstens jedoch | 398,00 |
 
-| 140. | Bewilligung einer sportlichen Veranstaltung auf Straßen (§ 64 Abs. 1) a) motorsportliche Veranstaltungen aa) wenn zur Erteilung der Bewilligung die Bezirksverwaltungsbehörde, die Bundespolizeidirektion oder die Gemeinde im übertragenen Wirkungsbereich zuständig ist |
+| 140. | Bewilligung einer sportlichen Veranstaltung auf Straßen (§ 64 Abs. 1) a) motorsportliche Veranstaltungen aa) wenn zur Erteilung der Bewilligung die Bezirksverwaltungsbehörde, die Landespolizeidirektion oder die Gemeinde im übertragenen Wirkungsbereich zuständig ist |
 
 | 1. mit Geschwindigkeitswettbewerb | 123,80 |
 
@@ -602,7 +602,7 @@
 
 | 2. ohne Geschwindigkeitswettbewerb | 123,80 |
 
-| b) andere sportliche Veranstaltungen aa) wenn zur Erteilung der Bewilligung die Bezirksverwaltungsbehörde, die Bundespolizeidirektion oder die Gemeinde im übertragenen Wirkungsbereich zuständig ist |
+| b) andere sportliche Veranstaltungen aa) wenn zur Erteilung der Bewilligung die Bezirksverwaltungsbehörde, die Landespolizeidirektion oder die Gemeinde im übertragenen Wirkungsbereich zuständig ist |
 
 | 1. mit Geschwindigkeitswettbewerb | 53,10 |
 
