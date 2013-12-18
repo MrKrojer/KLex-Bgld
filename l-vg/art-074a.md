@@ -10,9 +10,9 @@
 
 - 3. eines Landtagsklubs, dessen Mitgliederanzahl ein Drittel der Anzahl der Mitglieder des Landtages nicht erreicht (einmal je Kalenderjahr);
 
-- 4. des Landeskontrollausschusses;
+- 4. des Landes-Rechnungshofausschusses;
 
-- 5. dreier Mitglieder des Landeskontrollausschusses;
+- 5. dreier Mitglieder des Landes-Rechnungshofausschusses;
 
 - 6. der Landesregierung oder
 
