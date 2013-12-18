@@ -4,7 +4,7 @@
 
 (1) Der Landes-Rechnungshof besteht aus der Direktorin oder dem Direktor des Landes-Rechnungshofes und den sonstigen Bediensteten.
 
-(2) Die Direktorin oder der Direktor des Landes-Rechnungshofes wird - nach öffentlicher Ausschreibung und Durchführung einer Anhörung vor dem Landeskontrollausschuss - vom Landtag bei Anwesenheit von mindestens der Hälfte der Mitglieder mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen bestellt.
+(2) Die Direktorin oder der Direktor des Landes-Rechnungshofes wird - nach öffentlicher Ausschreibung und Durchführung einer Anhörung durch die Mitglieder des Landes-Rechnungshofausschusses, zu der die Präsidentin oder der Präsident des Landtages einzuladen hat - vom Landtag auf Grund eines Vorschlags der Präsidentin oder des Präsidenten des Landtages bei Anwesenheit von mindestens der Hälfte der Mitglieder mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen bestellt.
 
 (3) Die Direktorin oder der Direktor des Landesrechnungshofes - und im Vertretungsfall die Vertreterin oder der Vertreter - sind hinsichtlich ihrer rechtlichen Verantwortlichkeit den Mitgliedern der Landesregierung gleichgestellt (Artikel 57).
 
