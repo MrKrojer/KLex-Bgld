@@ -110,7 +110,7 @@ Fällt ein in Teil 1 genannter Stoff oder eine in Teil 1 genannte Zubereitung od
 
 | 29 | Folgende krebserzeugende Stoffe bei einer Konzentration von über 5 Gewichtsprozent: 4Aminobiphenyl und/oder seine Salze, Benzotrichlorid, Benzidin und/oder seine Salze, Bis(chlormethyl)ether, Chlormethylmethylether, 1,2Dibromethan, Diethylsulfat, Diemethylsulfat, Dimethyl-carbamoylchlorid, 1,2Dibrom3chlorpropan, 1,2Dimethylhydrazin, Dimethylnitrosamin, Hexamethylphosphortriamid, Hydrazin, 2Naphthylamin und/oder seine Salze, 4Nitrodiphenyl und 1,3Propan-sulton | 0,5 | 2 |
 
-| 30 | Erdölerzeugnisse: a) Ottokraftstoffe und Naphtha, b) Kerosin (einschließlich Flugturbinen- kraftstoffe), c) Gasöle (einschließlich Dieselkraftstoffe, leichtes Heizöl und Gasölmischströme) | 2 500 | 25 000 |
+| 30 | Erdölerzeugnisse: a) Ottokraftstoffe und Naphtha, b) Kerosin (einschließlich Flugturbinen- kraftstoffe), c) Gasöle (einschließlich Dieselkraftstoffe, leichtes Heizöl und Gasölmischströme) d) Schweröle | 2 500 | 25 000 |
 
 ### Anmerkungen zu Teil 1:
 
