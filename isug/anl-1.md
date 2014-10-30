@@ -1,10 +1,6 @@
 ### Anhang 1
 
-Verzeichnis der jedenfalls zu berücksichtigenden Schadstoffe,
-
-sofern sie für die Festlegung der Emissionsgrenzwerte
-
-von Bedeutung sind
+### Verzeichnis der jedenfalls zu berücksichtigenden Schadstoffe, sofern sie für die Festlegung der Emissionsgrenzwerte von Bedeutung sind
 
 ## LUFT
 
@@ -59,3 +55,5 @@ von Bedeutung sind
 - 11. Stoffe, die zur Eutrophierung beitragen (insbesondere Nitrate und Phosphate)
 
 - 12. Stoffe, die sich ungünstig auf den Sauerstoffgehalt auswirken (und sich mittels Parametern wie BSB und CSB messen lassen)
+
+- 13. Stoffe die in Anhang X der Richtlinie 2000/60/EG aufgeführt sind

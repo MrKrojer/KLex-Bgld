@@ -1,8 +1,6 @@
 ### Anhang 3
 
-## Kriterien für die Festlegung des Standes der Technik
-
-Bei der Festlegung des Standes der Technik ist unter Beachtung der sich aus einer bestimmten Maßnahme ergebenden Kosten und ihres Nutzens und des Grundsatzes der Vorbeugung im Allgemeinen wie auch im Einzelfall Folgendes zu berücksichtigen:
+## Kriterien für die Ermittlung der besten verfügbaren Technik
 
 - 1. der Einsatz abfallarmer Technologien;
 
@@ -18,7 +16,7 @@ Bei der Festlegung des Standes der Technik ist unter Beachtung der sich aus eine
 
 - 7. die Zeitpunkte der Inbetriebnahme der neuen oder der bestehenden Anlagen;
 
-- 8. die für die Einführung eines besseren Standes der Technik erforderliche Zeit;
+- 8. die für die Einführung einer besseren verfügbaren Technik erforderliche Zeit;
 
 - 9. der Verbrauch an Rohstoffen, die Art der bei den einzelnen Verfahren verwendeten Rohstoffe (einschließlich Wasser) sowie die Energieeffizienz;
 
@@ -26,4 +24,4 @@ Bei der Festlegung des Standes der Technik ist unter Beachtung der sich aus eine
 
 - 11. die Notwendigkeit, Unfällen vorzubeugen und deren Folgen für die Umwelt zu verringern;
 
-- 12. die von der Kommission nach Art. 16 Abs. 2 der IPPC-Richtlinie sowie die von internationalen Organisationen veröffentlichten Informationen.
+- 12. die von internationalen Organisationen veröffentlichten Informationen.
