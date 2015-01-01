@@ -1,6 +1,6 @@
 ### Anlage 1
 
-(zu § 4 Abs. 3 und § 13 Abs. 1)
+### (zu § 4 Abs. 3 und § 13 Abs. 1)
 
 ## Ernennungserfordernisse und Definitivstellungserfordernisse
 
@@ -18,7 +18,7 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 - a) den Erwerb eines Diplom-, Master- oder Doktorgrades gemäß § 87 Abs. 1 des Universitätsgesetzes 2002 oder
 
-- b) den Erwerb eines akademischen Grades gemäß § 5 Abs. 2 des Fachhochschul-Studiengesetzes aufgrund des Abschlusses eines Fachhochschul-Masterstudienganges oder eines Fachhochschul-Diplomstudienganges.
+- b) den Erwerb eines akademischen Grades gemäß § 5 Abs. 2 des Fachhochschul-Studiengesetzes aufgrund des Abschlusses eines Fachhochschul-Masterstudienganges oder eines FachhochschulDiplomstudienganges.
 
 1.2. Das Ernennungserfordernis des Abschlusses eines Hochschulstudiums der Rechtswissenschaften oder der Sozial- und Wirtschaftswissenschaften wird durch die erfolgreiche Absolvierung eines vom Bundeskanzleramt veranstalteten Aufstiegskurses ersetzt.
 
@@ -76,7 +76,7 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 | b) im sozialen Betreuungsdienst | das Erfordernis der Z 2.1 wird ersetzt durch die Absolvierung einer früheren Lehranstalt für gehobene Sozialberufe |
 
-| c) im Gehobenen Sozialdienst | zusätzlich zu den Erfordernissen der Z 2.1. die Erfüllung der Voraussetzungen zur Ausübung des Gehobenen Sozialdienstes nach § 6 Abs. 4 des Burgenländischen Jugendwohlfahrtsgesetzes |
+| c) im Gehobenen Sozialdienst | zusätzlich zu den Erfordernissen der Z 2.1. die Erfüllung der Voraussetzungen zur Ausübung des Gehobenen Sozialdienstes nach § 7 Abs. 4 des Burgenländischen Kinder- und Jugendhilfegsetzes |
 
 ### Definitivstellungserfordernis:
 
@@ -110,7 +110,7 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 - b) in der Land- und Forstwirtschaft durch die Erwerbung der Berufsbezeichnung eines Facharbeiters oder , wenn in dem betreffenden Zweig der Landwirtschaft eine solche Berufsbezeichnung nicht erworben werden kann, durch die Erwerbung der Berufsbezeichnung eines Gehilfen oder
 
-- c) durch den erfolgreichen Abschluß einer Grundausbildung, die als Ersatz für die Erlernung eines Lehrberufes vorgeschrieben ist (Facharbeiter-Aufstiegsprüfung).
+- c) durch den erfolgreichen Abschluss einer Grundausbildung für den handwerklichen Dienst oder durch die erfolgreiche Ablegung der Facharbeiter-Aufstiegsprüfung.
 
 ## Sonderbestimmungen für einzelne Verwendungen
 
@@ -156,19 +156,19 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 Eignung für die vorgesehene Verwendung.
 
-## 6. VERWENDUNGSGRUPPE P 1
+### 6. VERWENDUNGSGRUPPE P1
 
 ### Ernennungserfordernisse:
 
-6.1. Erlernung eines Lehrberufes und Verwendung im erlernten Lehrberuf als Partieführer oder als Spezialarbeiter in besonderer Verwendung.
+6.1. Erlernung eines Lehrberufes, der erfolgreiche Abschluss der Grundausbildung für den handwerklichen Dienst und die Verwendung als Partieführerin oder Partieführer.
 
-6.2. Die Tätigkeit als Partieführer im Sinne der Z 6.1 umfaßt die Beaufsichtigung und Leitung einer Bedienstetengruppe, der Facharbeiter angehören.
+6.2. Die Tätigkeit als Partieführerin oder Partieführer im Sinne der Z 6.1. umfasst die Beaufsichtigung und Leitung einer Bedienstetengruppe, der Facharbeiterinnen oder Facharbeiter angehören.
 
-6.3. Die Tätigkeit als Spezialarbeiter in besonderer Verwendung im Sinne der Z 6.1 liegt vor bei Verwendung mit Arbeiten, die mehr Kenntnisse oder handwerkliche Fähigkeiten erfordern als von einem Spezialarbeiter der Verwendungsgruppe P 2 verlangt werden kann; zu diesen Verwendungen gehören insbesondere Verwendungen als Lehrenbauer, Maschinensetzer, Modelltischler, Schnitt- und Stanzenmacher, Zuschneider und Ausmittler. Inwieweit andere Verwendungen hiezu gehören, ist von der Dienstbehörde festzusetzen.
+6.3. Auf den geforderten Nachweis der Erlernung eines Lehrberufes ist Z 3.3. lit. a oder lit. b anzuwenden.
 
-6.4. Auf den geforderten Nachweis der Erlernung eines Lehrberufes ist Z 3.3 anzuwenden.
+6.4. Für Landesbeamtinnen oder Landesbeamte, die am 31. Dezember 2014 der Verwendungsgruppe P1 angehörten, wird das Erfordernis der Z 6.1. durch die Erlernung eines Lehrberufes und die Verwendung im erlernten Lehrberuf als Partieführerin oder Partieführer ersetzt. Auf den geforderten Nachweis der Erlernung eines Lehrberufes ist Z 3.3. anzuwenden.
 
-## 7. VERWENDUNGSGRUPPE P 2
+### 7. VERWENDUNGSGRUPPE P2
 
 ### Ernennungserfordernisse:
 
@@ -176,77 +176,79 @@ Eignung für die vorgesehene Verwendung.
 
 - a) erfolgreiche Ablegung der Meisterprüfung im erlernten Lehrberuf sowie Verwendung im erlernten Lehrberuf oder
 
-- b) Verwendung im einschlägigen Lehrberuf als Vorarbeiter oder als Spezialarbeiter oder
+- b) Verwendung als Vorarbeiterin oder Vorarbeiter oder
 
-- c) zehnjährige Verwendung im erlernten Lehrberuf in einem Dienstverhältnis zu einer inländischen Gebietskörperschaft, wenn der Lehrberuf gemäß Z 3.3 lit. a oder b erlernt wurde, sowie weiterhin Verwendung im erlernten Lehrberuf.
+- c) zehnjährige Verwendung im erlernten Lehrberuf in einem Dienstverhältnis zu einer inländischen Gebietskörperschaft, wenn der Lehrberuf gemäß Z 3.3. lit. a oder b erlernt wurde, sowie weiterhin Verwendung im erlernten Lehrberuf oder
 
-7.2. Die Tätigkeit als Vorarbeiter im Sinne der Z 7.1 lit. b umfaßt die Überwachung der Tätigkeit anderer Arbeiter.
+- d) fünfzehnjährige Verwendung im handwerklichen Dienst in einem Dienstverhältnis zu einer inländischen Gebietskörperschaft, wenn der Lehrberuf gemäß Z 3.3. lit. a oder b erlernt wurde, und der erfolgreiche Abschluss der Grundausbildung für den handwerklichen Dienst.
 
-7.3. Die Tätigkeit als Spezialarbeiter im Sinne der Z 7.1 lit. b liegt vor bei Verwendung mit Arbeiten, die mehr Kenntnisse oder handwerkliche Fähigkeiten erfordern, als von einem Facharbeiter der Verwendungsgruppe P 3 verlangt werden kann. Zu diesen Verwendungen gehören, insbesondere Verwendungen als Facharbeiter in zwei erlernten Berufen, Facharbeitern mit erfolgreich abgelegter Meister- oder Werkmeisterprüfung im erlernten Beruf, Feinmechaniker für Spezialgeräte, Glasbläser für wissenschaftliche Geräte, Handsetzer, Mustermacher für Bekleidung und Ausrüstung, Radarmechaniker, Schlosser für Werkzeug- und Vorrichtungsbau. Inwieweit andere Verwendungen hiezu gehören ist von der Landesregierung festzusetzen.
+7.2.
 
-7.4. Auf den in Z 7.1 lit. b geforderten Nachweis der Erlernung eines Lehrberufes ist Z 3.3 anzuwenden.
+- a) Zwanzigjährige Verwendung im handwerklichen Dienst in P3 in einem Dienstverhältnis zu einer inländischen Gebietskörperschaft und der erfolgreiche Abschluss der Grundausbildung für den handwerklichen Dienst oder
 
-## Sonderbestimmungen für einzelne Verwendungen
+- b) dreißigjährige Verwendung im handwerklichen Dienst in P3 in einem Dienstverhältnis zu einer inländischen Gebietskörperschaft.
 
-7.5. Für Kraftwagenlenker einer im § 6 des Bezügegesetzes, BGBl. Nr. 273/1972, im Art. 17 Abs. 3, im Art. 51 oder im Art. 73 Abs. 1 des Landes-Verfassungsgesetzes, LGBl. Nr. 42/1981, angeführten Person, die zusätzlich mit der Wahrnehmung von Sicherheitsaufgaben betraut sind, an Stelle der Erfordernisse der Z 7.1
+7.3. Die Tätigkeit als Vorarbeiterin oder Vorarbeiter im Sinne der Z 7.1. lit. b umfasst die Überwachung der Tätigkeit anderer Arbeiterinnen oder Arbeiter.
 
-- a) das in Z 8.3 lit. c angeführte Erfordernis und
+7.4. Auf den in Z 7.1. lit. b geforderten Nachweis der Erlernung eines Lehrberufes ist Z 3.3. anzuwenden.
+
+### Sonderbestimmungen für einzelne Verwendungen
+
+7.5. Für Kraftwagenlenkerinnen und Kraftwagenlenker einer im § 6 des Bezügegesetzes, im Art. 17 Abs. 3, im Art. 51 oder im Art. 73 Abs. 1 des Landes-Verfassungsgesetzes, LGBl. Nr. 42/1981, angeführten Person, die zusätzlich mit der Wahrnehmung von Sicherheitsaufgaben betraut sind, an Stelle der Erfordernisse der Z 7.1.
+
+- a) das in Z 8.3. lit. b angeführte Erfordernis und
 
 - b) der Nachweis der Ausbildung in der Wahrnehmung der für die Ausübung des Dienstes erforderlichen Sicherheitsaufgaben.
 
-7.6. Berufskraftfahrer im Sinne der Z 8.5 und 8.6 erfüllen die Voraussetzungen der Z 7.1 lit. c auch dann, wenn die bei einer inländischen Gebietskörperschaft zurückgelegte zehnjährige Verwendung als Berufskraftfahrer für in Z 8.6 angeführte Kraftfahrzeuge zur Gänze oder teilweise vor der Erfüllung der in Z 8.5 lit. b angeführten Erfordernisse liegt.
+7.6. Berufskraftfahrerinnen und Berufskraftfahrer im Sinne der Z 8.5. und 8.6. erfüllen die Voraussetzungen der Z 7.1. lit. c auch dann, wenn die bei einer inländischen Gebietskörperschaft zurückgelegte zehnjährige Verwendung als Berufskraftfahrerin oder Berufskraftfahrer für in Z 8.6. angeführte Kraftfahrzeuge zur Gänze oder teilweise vor der Erfüllung der in Z 8.5. lit. b angeführten Erfordernisse liegt.
 
-7.7. Bei Kraftfahrern, die seit 1. Jänner 1995 in einem Dienstverhältnis zum Land Burgenland stehen und am 1. Jänner 1995 als Berufskraftfahrer verwendet wurden, werden die Erfordernisse der Z 7.1 lit. c und Z 8.5 lit. b durch eine bei einer inländischen Gebietskörperschaft zurückgelegte fünfzehnjährige Verwendung als Berufskraftfahrer gemäß Z 8.6 ersetzt, wenn diese Verwendung nach wie vor gegeben ist und der Beamte die erfolgreiche Ablegung einer Prüfung über sein Arbeitsgebiet nachweist (Berufskraftfahrerprüfung). Zu dieser Prüfung sind auf Antrag Beamte zuzulassen, die mindestens fünf Jahre erfolgreich als Berufskraftfahrer verwendet worden sind. Auf die Durchführung der Prüfung sind die §§ 28 bis 35 sinngemäß anzuwenden.
+7.7. Bei Kraftfahrerinnen oder Kraftfahrern, die seit 1. Jänner 1995 in einem Dienstverhältnis zum Land Burgenland stehen und am 1. Jänner 1995 als Berufskraftfahrerinnen oder Berufskraftfahrer verwendet wurden, werden die Erfordernisse der Z 7.1. lit. c und Z 8.5. lit. b durch eine bei einer inländischen Gebietskörperschaft zurückgelegte fünfzehnjährige Verwendung als Berufskraftfahrerin oder Berufskraftfahrer gemäß Z 8.6. ersetzt, wenn diese Verwendung nach wie vor gegeben ist und die Beamtin oder der Beamte die erfolgreiche Ablegung einer Prüfung über ihr oder sein Arbeitsgebiet nachweist (Berufskraftfahrerprüfung). Zu dieser Prüfung sind auf Antrag Beamtinnen und Beamte zuzulassen, die mindestens fünf Jahre erfolgreich als Berufskraftfahrerinnen oder Berufskraftfahrer verwendet worden sind. Auf die Durchführung der Prüfung sind die §§ 28 bis 35 sinngemäß anzuwenden.
 
-7.8. Bei Kraftfahrern, die spätestens am 1. September 1994 die Lehre zum Lehrberuf “Kraftfahrzeugmechaniker” oder zum Lehrberuf “Landmaschinenmechaniker” begonnen haben und diese Lehre spätestens am 1. September 1999 erfolgreich abschließen, werden die Erfordernisse der Z 7.1 lit. c und der Z 8.5 lit. b durch eine bei einer inländischen Gebietskörperschaft zurückgelegte zwölfjährige Verwendung als Berufskraftfahrer gemäß Z 8.6 ersetzt, wenn der Beamte die erfolgreiche Ablegung der Berufskraftfahrerprüfung nachweist und diese Verwendung nach wie vor gegeben ist. Z 7.7 zweiter und dritter Satz ist anzuwenden.
+7.8. Bei Kraftfahrerinnen oder Kraftfahrern, die spätestens am 1. September 1994 die Lehre zum Lehrberuf „Kraftfahrzeugmechaniker“ oder zum Lehrberuf „Landmaschinenmechaniker“ begonnen haben und diese Lehre spätestens am 1. September 1999 erfolgreich abgeschlossen haben, werden die Erfordernisse der Z 7.1. lit. c und der Z 8.5. lit. b durch eine bei einer inländischen Gebietskörperschaft zurückgelegte zwölfjährige Verwendung als Berufskraftfahrerin oder Berufskraftfahrer gemäß Z 8.6. ersetzt, wenn die Beamtin oder der Beamte die erfolgreiche Ablegung der Berufskraftfahrerprüfung nachweist und diese Verwendung nach wie vor gegeben ist. Z 7.7. zweiter und dritter Satz ist anzuwenden.
 
-## 8. VERWENDUNGSGRUPPE P 3
+### 8. VERWENDUNGSGRUPPE P3
 
 ### Ernennungserfordernisse:
 
-## Allgemeine Bestimmungen
+### Allgemeine Bestimmungen
 
-8.1. Erlernung eines Lehrberufes und Verwendung als Facharbeiter im erlernten Lehrberuf.
+8.1. Erlernung eines Lehrberufes und Verwendung im handwerklichen Dienst mit Ausnahme der Verwendungen, die der Verwendungsgruppe P5 zuzuordnen sind.
 
-8.2. Auf den geforderten Nachweis der Erlernung eines Lehrberufes ist Z 3.3 anzuwenden.
+8.2. Auf den geforderten Nachweis der Erlernung eines Lehrberufes ist Z 3.3. anzuwenden.
 
-8.3. An Stelle der Erfordernisse der Z 8.1 die Verwendung als
+8.3. An Stelle der Erfordernisse der Z 8.1. die Verwendung als
 
-- a) Führer von Spezialfahrzeugen (Schaufellader, Bagger, Arbeitsraupe, motorisierter Schneepflug, Schneefräse, Straßenwalze usw.) und die hiefür erforderliche Berechtigung,
+- a) Führerin oder Führer von Spezialfahrzeugen (Schaufellader, Bagger, Arbeitsraupe, motorisierter Schneepflug, Schneefräse, Straßenwalze usw.) und die hiefür erforderliche Berechtigung,
 
-- b) Heizer in Hochdruckkesselanlagen mit erlerntem einschlägigen Lehrberuf und erfolgreicher Ablegung der Dampfkesselwärterprüfung,
+- b) Kraftwagenlenkerin oder Kraftwagenlenker im überwiegenden Ausmaß, wenn hiefür zumindest die Berechtigung zur Führung eines Personenkraftwagens erforderlich ist,
 
-- c) Kraftwagenlenker im überwiegenden Ausmaß, wenn hiefür zumindest die Berechtigung zur Führung eines Personenkraftwagens erforderlich ist,
+- c) dreißigjährige Verwendung in einem Bereich im handwerklichen Dienst in der Verwendungsgruppe P4 in einem Dienstverhältnis zu einer inländischen Gebietskörperschaft.
 
-- d) Maschinist in einem Bereich, für den die erfolgreiche Ablegung sowohl der Maschinen- als auch der Dampfkesselwärterprüfung vorgeschrieben ist, und die erfolgreiche Ablegung beider Prüfungen,
+8.4. Inwieweit das Führen anderer als der in der Z 8.3. lit. a ausdrücklich angeführten Spezialfahrzeuge dieser Bestimmung zuzuordnen ist, ist von der Dienstbehörde festzustellen.
 
-- e) Straßenwärter mit Beaufsichtigung und Leitung einer Arbeitsgruppe im Straßenbau- und Straßenerhaltungsdienst sowie eine zehnjährige Vorverwendung als Straßenwärter oder in einer gleichartigen Tätigkeit im Baudienst und der erfolgreiche Abschluß der Grundausbildung für die Verwendungsgruppe P 3.
+8.5. Die Erlernung des Lehrberufes „Berufskraftfahrer“ im Sinne der Z 8.1. ist nachzuweisen:
 
-8.4. Inwieweit das Führen anderer als der in der Z 8.3 lit. a ausdrücklich angeführten Spezialfahrzeuge dieser Bestimmung zuzuordnen ist, ist von der Dienstbehörde festzustellen.
+- a) durch den Erwerb des Führerscheins der Führerscheinklasse C und zusätzlich
 
-8.5. Die Erlernung des Lehrberufes “Berufskraftfahrer” im Sinne der Z 8.1 ist nachzuweisen:
+- b) durch die Ablegung der Lehrabschlussprüfung für Berufskraftfahrerinnen und Berufskraftfahrer oder durch die Zusatzprüfung gemäß Art. III § 10 der Verordnung über den Ausbildungsversuch für den Lehrberuf Berufskraftfahrer, BGBl. Nr. 396/1987.
 
-- a) durch den Erwerb des Führerscheins der Gruppe C und zusätzlich
+8.6. Die Tätigkeit im erlernten Lehrberuf „Berufskraftfahrer“ ist durch die Verwendung als Berufskraftfahrerin oder Berufskraftfahrer für
 
-- b) durch die Ablegung der Lehrabschlußprüfung für Berufskraftfahrer oder durch die Zusatzprüfung gemäß Art. III § 10 der Verordnung über den Ausbildungsversuch für den Lehrberuf Berufskraftfahrer, BGBl. Nr. 396/1987.
+- a) Kraftfahrzeuge mit einem zulässigen Gesamtgewicht von mehr als 7 500 kg oder
 
-8.6. Die Tätigkeit im erlernten Lehrberuf “Berufskraftfahrer” ist durch die Verwendung als Berufskraftfahrer für
+- b) Spezialfahrzeuge gemäß Z 8.3. lit. a oder Z 8.4. nachzuweisen.
 
-- a) Kraftfahrzeuge mit einem zulässigen Gesamtgewicht von mehr als 7.500 kg oder
-
-- b) Spezialfahrzeuge gemäß Z 8.3 lit. a oder Z 8.4 nachzuweisen.
-
-## 9. VERWENDUNGSGRUPPE P 4
+### 9. VERWENDUNGSGRUPPE P4
 
 ### Ernennungserfordernisse:
 
 Fähigkeit zur Ausübung von handwerklichen Tätigkeiten, für die eine über die bloße Einweisung am Arbeitsplatz hinausgehende Anlernzeit erforderlich ist, und dauernde Verwendung auf diesem Gebiet.
 
-## 10. VERWENDUNGSGRUPPE P 5
+### 10. VERWENDUNGSGRUPPE P5
 
 ### Ernennungserfordernisse:
 
-Eignung für die vorgesehene Verwendung als Reinigungskraft oder als ungelernter Arbeiter.
+Eignung für die vorgesehene Verwendung als Reinigungskraft oder als ungelernte Arbeiterin oder ungelernter Arbeiter.“
 
 ## 11. VERWENDUNGSGRUPPEN LPA, L 1 L 2a2, L 2a1, L 2b1, L3
 
