@@ -18,7 +18,9 @@ Die Beamten haben neben den allgemeinen Ernennungserfordernissen (§ 4 Abs. 1 un
 
 - a) den Erwerb eines Diplom-, Master- oder Doktorgrades gemäß § 87 Abs. 1 des Universitätsgesetzes 2002 oder
 
-- b) den Erwerb eines akademischen Grades gemäß § 5 Abs. 2 des Fachhochschul-Studiengesetzes aufgrund des Abschlusses eines Fachhochschul-Masterstudienganges oder eines FachhochschulDiplomstudienganges.
+- b) den Erwerb eines akademischen Grades gemäß § 6 Abs. 2 des Fachhochschul-Studiengesetzes aufgrund des Abschlusses eines Fachhochschul-Masterstudienganges oder eines FachhochschulDiplomstudienganges.
+
+1.1a. Das Ernennungserfordernis der Hochschulbildung gemäß Z 1.1. wird in jenen Verwendungen, für die nicht ausdrücklich der Erwerb eines akademischen Grades gemäß Z 1.1. lit. a oder b vorgesehen ist, auch durch den Erwerb eines einschlägigen Bachelorgrades gemäß § 87 Abs. 1 des Universitätsgesetzes 2002 oder gemäß § 6 des Fachhochschul-Studiengesetzes erfüllt.
 
 1.2. Das Ernennungserfordernis des Abschlusses eines Hochschulstudiums der Rechtswissenschaften oder der Sozial- und Wirtschaftswissenschaften wird durch die erfolgreiche Absolvierung eines vom Bundeskanzleramt veranstalteten Aufstiegskurses ersetzt.
 
