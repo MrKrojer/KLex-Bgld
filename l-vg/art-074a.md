@@ -20,15 +20,27 @@
 
 durchzuführen.
 
-(2) Der Landes-Rechnungshof hat dem Landtag das Ergebnis einer von Amts wegen eingeleiteten Prüfung (Absatz 1) unverzüglich nach Abschluss der Prüfung in einem schriftlichen Bericht mitzuteilen. Gleichzeitig ist ein solcher Bericht vom Landes-Rechnungshof der geprüften Stelle sowie der Landesregierung zur Kenntnis zu bringen. Im Falle einer Befassung des Landes-Rechnungshofes gemäß Artikel 74 Absatz 2 Z 8 hat der Landes-Rechnungshof den demgemäß erstatteten schriftlichen Bericht unverzüglich nach Abschluss der Prüfung der antragstellenden und der geprüften Stelle, dem Landtag und der Landesregierung zur Kenntnis zu bringen. Nach Durchführung dieser Maßnahmen hat der Landes-Rechnungshof derartige Berichte in geeigneter Weise zu veröffentlichen.
+(1a) Der Landes-Rechnungshof hat Prüfungen im Sinne des Artikels 74 Absatz 2 Z 9 bis 12 von Amts wegen durchzuführen.
 
-(3) Der Landes-Rechnungshof hat der Stelle, die das Verlangen auf die entsprechende Prüfung gestellt hat, das Ergebnis einer auf Verlangen eingeleiteten Prüfung (Absatz 1 Z 1 bis 7) unverzüglich nach Abschluss der Prüfung in einem schriftlichen Bericht mitzuteilen. Gleichzeitig ist ein solcher Bericht vom Landes-Rechnungshof
+(1b) Der Landes-Rechnungshof hat Prüfungen im Sinne des Artikels 74 Absatz 2 Z 13 bis 16
+
+- 1. auf begründetes Ersuchen der Landesregierung oder
+
+- 2. auf Beschluss des Landtages
+
+durchzuführen. In jedem Jahr dürfen nur zwei Ersuchen gemäß Z 1 sowie zwei Anträge gemäß Z 2 gestellt werden. Ersuchen der Landesregierung gemäß Z 1 sind nur hinsichtlich jener Gemeinden zulässig, die im Vergleich mit anderen Gemeinden über eine auffällige Entwicklung bei Schulden oder Haftungen verfügen. Dies gilt auch für Beschlüsse des Landtages gemäß Z 2.
+
+(2) Der Landes-Rechnungshof hat dem Landtag das Ergebnis einer von Amts wegen eingeleiteten Prüfung (Absatz 1 und Absatz 1a) unverzüglich nach Abschluss der Prüfung in einem schriftlichen Bericht mitzuteilen. Gleichzeitig ist ein solcher Bericht vom Landes-Rechnungshof der geprüften Stelle, der Landesregierung sowie im Falle einer Prüfung gemäß Absatz 1a dem Gemeinderat und dem Bürgermeister der betreffenden Gemeinde zur Kenntnis zu bringen. Im Falle einer Befassung des Landes-Rechnungshofes gemäß Artikel 74 Absatz 2 Z 8 hat der Landes-Rechnungshof den demgemäß erstatteten schriftlichen Bericht unverzüglich nach Abschluss der Prüfung der antragstellenden und der geprüften Stelle, dem Landtag und der Landesregierung zur Kenntnis zu bringen. Nach Durchführung dieser Maßnahmen hat der Landes-Rechnungshof derartige Berichte in geeigneter Weise zu veröffentlichen.
+
+(3) Der Landes-Rechnungshof hat der Stelle, die das Verlangen auf die entsprechende Prüfung gestellt hat, das Ergebnis einer auf Verlangen eingeleiteten Prüfung (Absatz 1 Z 1 bis 7 und Absatz 1b) unverzüglich nach Abschluss der Prüfung in einem schriftlichen Bericht mitzuteilen. Gleichzeitig ist ein solcher Bericht vom Landes-Rechnungshof
 
 - 1. der geprüften Stelle,
 
-- 2. dem Landtag und
+- 2. dem Landtag,
 
-- 3. im Fall einer Prüfung gemäß Absatz 1 Z 1 bis 5 und 7 der Landesregierung
+- 3. im Fall einer Prüfung gemäß Absatz 1 Z 1 bis 5 und 7 der Landesregierung und
+
+- 4. im Falle einer Prüfung gemäß Absatz 1b dem Gemeinderat und dem Bürgermeister der betreffenden Gemeinde
 
 zur Kenntnis zu bringen. Danach hat der Landes-Rechnungshof derartige Berichte in geeigneter Weise zu veröffentlichen.
 
