@@ -719,3 +719,11 @@
 ### (Gesetz betreffend Gebühren von Totalisateur- und Buchmacherwetten sowie Maßnahmen zur Unterdrückung des Winkelwettwesens)
 
 | 158. | Bewilligung zum gewerbsmäßigen Abschluss von Wetten (Buchmacherbewilligung) | 283,10 |
+
+### XXVII. Pflanzenschutz
+
+### (Burgenländisches Pflanzenschutzmittelgesetz 2012)
+
+| 159. | Autorisierung von Werkstätten zur Überprüfung von Pflanzenschutzgeräten (§ 7 Abs. 1 Burgenländische Pflanzenschutzgeräteüberprüfungsverordnung) | 109,00 |
+
+| 160. | Ausstellung einer Ausbildungsbescheinigung (§ 1 Burgenländische Pflanzenschutzmittel-Ausbildungsbescheinigungs-Verordnung 2015) | 20,60 |
