@@ -672,7 +672,7 @@
 
 ### (Tierschutzgesetz)
 
-| 151. | Kenntnisnahme a) der Haltung von Wildtieren (§ 25 Abs. 1) je Stück | 12,20 |
+| 151. | Kenntnisnahme a) der Haltung von Wildtieren (§ 25 Abs. 1) | 12,20 |
 
 | b) der gewerblichen Haltung von Tieren zu Zuchtzwecken (§ 31 Abs. 4) | 85,20 |
 
