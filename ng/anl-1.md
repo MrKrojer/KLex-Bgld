@@ -71,5 +71,3 @@ Der Antrag und die Naturverträglichkeitserklärung sind der Behörde zur Weiter
 ### Beteiligung der Öffentlichkeit:
 
 Die Naturverträglichkeitserklärung ist zur allgemeinen Einsicht in der Standortgemeinde und bei der für die Vollziehung dieses Gesetzes zuständigen Abteilung im Amt der Burgenländischen Landesregierung zur allgemeinen Einsicht und Möglichkeit der Abgabe einer Stellungnahme für jedermann zwei Wochen aufzulegen. Das Ergebnis dieser öffentlichen Auflage ist bei der Entscheidungsfindung zu berücksichtigen.
-
-Nach der Entscheidungsfindung ist der Bescheid im Internet durch zwei Wochen zu veröffentlichen.
